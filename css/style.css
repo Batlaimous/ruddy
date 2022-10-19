@@ -1,0 +1,136 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;list-style: none;
+}
+
+.navfixed-top {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+  }
+
+header{
+
+        width: 100%;
+        height: 1400px;
+        background:url(../images/bg.jpg)no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        
+
+  }
+.bg-nav{
+      background-color:rgba(53,153,140,0.4);
+  }
+
+.bg-nav3{
+    background-color:rgba(53,153,140);
+}
+
+.bg-nav2{
+    background-color: #eb530c;
+  }
+
+.mx-10 {
+    margin-right: 12rem !important;
+    margin-left: 12rem !important;
+  }
+
+.mt-10{
+    margin-top: 6rem !important; 
+}
+
+.ms-10{
+    margin-left: 10% !important;
+}
+
+.brands{
+    background-color: rgba(53,153,140,0.4);
+}
+
+.brands-container{
+    position:absolute;
+    bottom: 0;
+    width: 85%;
+}
+
+.barnd-item:hover{
+    background:  #d27e625d;
+}
+
+.p-10 {
+    padding: 3rem !important;
+  }
+
+.pt-9{
+    padding-top: 4rem !important;
+}
+
+
+.pt-10{
+    padding-top: 8rem !important;
+}
+
+.ps-10{
+    padding-right: 8rem !important;
+
+}
+
+.process{
+        width: 100%;
+        min-height: 800px;
+        background:url(../images/process-bg.jpg)no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+}
+
+.process1{
+    width: 250px;
+    min-height: 250px;
+    background:url(../images/p-bg1.jpg)no-repeat;
+    background-size:cover;
+    
+}
+
+.process2{
+    width: 250px;
+    min-height: 250px;
+    background:url(../images/p-bg2.jpg)no-repeat;
+    background-size: cover;
+}
+
+.process3{
+    width: 250px;
+    min-height: 250px;
+    background:url(../images/p-bg3.jpg)no-repeat;
+    background-size: cover;
+}
+
+.process4{
+    width: 250px;
+    min-height: 250px;
+    background:url(../images/p-bg4.jpg)no-repeat;
+    background-size: cover;
+}
+
+.contactus{
+    width: 100%;
+    min-height: 300px;
+    background-color: #eb530c;
+}
+
+.foot{
+    height: 250px;
+    background-color: rgb(37, 36, 36);
+}
+
+
+.contact{
+    height: 600px;
+    width: 400px;
+    position: absolute;
+    top: 826.5%;
+    left: 40%;
+    background-color:#eb530c ;
+    
+
+}
